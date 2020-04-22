@@ -61,7 +61,7 @@
     "prettier": "1.16.4",
     "react-testing-library": "6.0.0",
     "regenerator-runtime": "0.13.1",
-    "rimraf": "2.6.3",
+    "rimraf": "2.7.1",
     "start-server-and-test": "1.7.11"
   },
   "homepage": "https://github.com/parmsang/gatsby-starter-ecommerce",
