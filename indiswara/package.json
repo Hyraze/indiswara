@@ -41,7 +41,7 @@
     "babel-plugin-styled-components": "1.10.7",
     "cross-env": "7.0.2",
     "cypress": "4.5.0",
-    "cypress-testing-library": "2.6.0",
+    "cypress-testing-library": "4.0.0",
     "dotenv": "8.2.0",
     "eslint": "7.0.0",
     "eslint-config-airbnb": "18.1.0",
