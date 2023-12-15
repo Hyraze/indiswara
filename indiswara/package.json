@@ -60,7 +60,7 @@
     "lint-staged": "10.5.4",
     "prettier": "2.0.5",
     "react-testing-library": "8.0.1",
-    "regenerator-runtime": "0.13.5",
+    "regenerator-runtime": "0.14.1",
     "rimraf": "3.0.2",
     "start-server-and-test": "1.11.0"
   },
